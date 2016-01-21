@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: R. Grey Lofts
+logo: images/entrance.jpg
+description: A business and residential condominium in the Cultural District of downtown Boise.
+show_downloads: false
+#
+# To test locally:
+# > bundle install
+# > bundle exec jekyll serve
