@@ -1,4 +1,14 @@
 
+## RGL Management Company
+For inquiries about the property or need help with maintenance, 
+please contact our management company: 
+[Oppenheimer Development Corporation](https://oppenheimerdevelopment.com/).
+
+- **Oppenheimer Main Number**: [208-343-4883](tel:208-343-4883)
+- **Oppenheimer After-Hours Maintenance**: [208-343-4344](tel:208-343-4344)
+- **Property Manager**: Dayna Buckley &mdash; [208-287-0136](tel:208-287-0136) / [dayna-buckley@oppcos.com](mailto:dayna-buckley@oppcos.com)
+- **Maintenance Technician**: Zach Snebold &mdash; [208-509-1081](tel:208-509-1081) / [zachary-snebold@oppcos.com](mailto:zachary-snebold@oppcos.com)
+
 ## HOA Board Public List
 Anyone can email the HOA Board at: 
 **[board@rgreylofts.com](mailto:board@rgreylofts.com)**
@@ -9,7 +19,7 @@ you can also access this discussion group
 to adjust your subscription and view the archives, etc.
 
 ## HOA Members Private List (All Unit Owners)
-If you are a unit owner, you need to 
+If you are a unit owner, please
 **[join the Owners discussion group](https://groups.google.com/group/rgl-owners/subscribe)**
 to receive important announcements and participate in discussions.
 
