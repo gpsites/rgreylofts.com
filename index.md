@@ -4,10 +4,10 @@ For inquiries about the property or need help with maintenance,
 please contact our management company: 
 [Oppenheimer Development Corporation](https://oppenheimerdevelopment.com/).
 
-- **Oppenheimer Main Number**: [208-343-4883](tel:208-343-4883)
-- **Oppenheimer After-Hours Maintenance**: [208-343-4344](tel:208-343-4344)
 - **Property Manager**: Dayna Buckley &mdash; [208-287-0136](tel:208-287-0136) / [dayna-buckley@oppcos.com](mailto:dayna-buckley@oppcos.com)
 - **Maintenance Technician**: Zach Snebold &mdash; [208-509-1081](tel:208-509-1081) / [zachary-snebold@oppcos.com](mailto:zachary-snebold@oppcos.com)
+- **Oppenheimer Main Number**: [208-343-4883](tel:208-343-4883)
+- **Oppenheimer After-Hours Maintenance**: [208-343-4344](tel:208-343-4344)
 
 ## HOA Board Public List
 Anyone can email the HOA Board at: 
