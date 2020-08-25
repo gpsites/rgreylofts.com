@@ -7,6 +7,7 @@ please contact our management company, Oppenheimer Development Corporation.
 > - phone [208-343-4883](tel:208-343-4883)
 > - after-hours maintenance, phone [208-343-4344](tel:208-343-4344)
 > - website [oppenheimerdevelopment.com](https://oppenheimerdevelopment.com)
+> 
 > Property Manager: **Dayna Buckley**<br/>
 > - phone [208-287-0136](tel:208-287-0136)
 > - email [dayna-buckley@oppcos.com](mailto:dayna-buckley@oppcos.com)
