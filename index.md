@@ -1,13 +1,20 @@
 
 ## RGL Management Company
-For inquiries about the property or need help with maintenance, 
-please contact our management company: 
-[Oppenheimer Development Corporation](https://oppenheimerdevelopment.com/).
+For inquiries about the property or help with maintenance, 
+please contact our management company, Oppenheimer Development Corporation.
 
-- **Property Manager**: Dayna Buckley &mdash; [208-287-0136](tel:208-287-0136) / [dayna-buckley@oppcos.com](mailto:dayna-buckley@oppcos.com)
-- **Maintenance Technician**: Zach Snebold &mdash; [208-509-1081](tel:208-509-1081) / [zachary-snebold@oppcos.com](mailto:zachary-snebold@oppcos.com)
-- **Oppenheimer Main Number**: [208-343-4883](tel:208-343-4883)
-- **Oppenheimer After-Hours Maintenance**: [208-343-4344](tel:208-343-4344)
+> Management Company: **Oppenheimer Development**<br/>
+> - phone [208-343-4883](tel:208-343-4883)
+> - after-hours maintenance, phone [208-343-4344](tel:208-343-4344)
+> - website [oppenheimerdevelopment.com](https://oppenheimerdevelopment.com)
+> Property Manager: **Dayna Buckley**<br/>
+> - phone [208-287-0136](tel:208-287-0136)
+> - email [dayna-buckley@oppcos.com](mailto:dayna-buckley@oppcos.com)
+> 
+> Maintenance Technician: **Zach Snebold**<br/>
+> - phone [208-509-1081](tel:208-509-1081)
+> - email [zachary-snebold@oppcos.com](mailto:zachary-snebold@oppcos.com)
+> 
 
 ## HOA Board Public List
 Anyone can email the HOA Board at: 
