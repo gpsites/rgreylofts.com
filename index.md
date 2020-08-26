@@ -1,5 +1,5 @@
 
-## RGL Management Company
+## Management Company
 For inquiries about the property or help with maintenance, 
 please contact our management company, Oppenheimer Development Corporation.
 
@@ -17,7 +17,7 @@ please contact our management company, Oppenheimer Development Corporation.
 > - email [zachary-snebold@oppcos.com](mailto:zachary-snebold@oppcos.com)
 > 
 
-## HOA Board Public List
+## HOA Board Public Email List
 Anyone can email the HOA Board at: 
 **[board@rgreylofts.com](mailto:board@rgreylofts.com)**
 
@@ -26,7 +26,7 @@ you can also access this discussion group
 **[online](https://groups.google.com/forum/#!forum/rgl-board)**
 to adjust your subscription and view the archives, etc.
 
-## HOA Members Private List (All Unit Owners)
+## Unit Owners Private Email List
 If you are a unit owner, please
 **[join the Owners discussion group](https://groups.google.com/group/rgl-owners/subscribe)**
 to receive important announcements and participate in discussions.
