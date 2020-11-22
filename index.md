@@ -44,5 +44,6 @@ to adjust subscriptions and view the archives, etc.
 [CC&R's (PDF)](docs/CCRs.pdf)
 &nbsp;&nbsp; [Amendment 1 (PDF)](docs/CCRsAmendment1.pdf)
 &nbsp;&nbsp; [Amendment 2 (PDF)](docs/CCRsAmendment2.pdf)
+&nbsp;&nbsp; [Amendment 3 (PDF)](docs/CCRsAmendment3.pdf)
 
 [Bylaws (PDF)](docs/Bylaws.pdf)
