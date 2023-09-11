@@ -19,7 +19,7 @@ please contact our management company, Oppenheimer Development Corporation.
 
 ## HOA Board Public Email List
 Anyone can email the HOA Board at: 
-**[board@rgreylofts.com](mailto:board@rgreylofts.com)**
+**[rgl-board@googlegroups.com](mailto:rgl-board@googlegroups.com)**
 
 If you are a member of the board,
 you can also access this discussion group 
@@ -32,7 +32,7 @@ If you are a unit owner, please
 to receive important announcements and participate in discussions.
 
 Members of this group can reach all of the other owners by sending email to:
-[owners@rgreylofts.com](mailto:owners@rgreylofts.com)
+[rgl-owners@googlegroups.com](mailto:rgl-owners@googlegroups.com)
 
 Members of this discussion group can also access it 
 **[online](https://groups.google.com/forum/#!forum/rgl-owners)**
