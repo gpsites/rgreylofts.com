@@ -47,3 +47,5 @@ to adjust subscriptions and view the archives, etc.
 &nbsp;&nbsp; [Amendment 3 (PDF)](docs/CCRsAmendment3.pdf)
 
 [Bylaws (PDF)](docs/Bylaws.pdf)
+
+[Renters Contact Form (PDF)](docs/RentersContactForm.pdf)
